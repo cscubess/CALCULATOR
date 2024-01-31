@@ -26,10 +26,8 @@ Technologies Used:
 Programming Language: JavaScript
 IDE: vs-code
 Version Control: Git
-How to Run the Calculator:
-Clone the Repository:
+How to Run the Calculator
 
-git clone https://github.com/username/calculator-project.git
 Open in vscode
 
 Import the project into vs IDE.
